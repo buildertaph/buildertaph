@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- level 1: simple bio and stats -->
 
-<!--
-**BUILDERTAPH/BUILDERTAPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h6 align="center">check main </h6>
 
-Here are some ideas to get you started:
+  <img src="https://file.garden/Z5VLhJB-RwipIekD/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%80462_20250423171340.png"/> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+　<h4 align="center">　  　[MAIN](https://github.com/chem-rat)　﹒ 　[ATABOOK](https://cptmc.atabook.org/)　</h3>
+
+ 
+ <h6 align="center"> grp : veilziz ( X ) </h6>
+
+###
